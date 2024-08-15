@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @vikasdinghparjapati
+# 👋 Hi, I’m vikas singh
 
 - 👀 I specialize in **Frontend Development**, **WordPress**, **Shopify**, **HubSpot**, **Laravel**, and **Next.js**.
 - 💼 I provide professional services in these areas, helping clients build robust, scalable, and user-friendly web applications.
